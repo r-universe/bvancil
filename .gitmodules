@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/bvancil/universe
+	url = https://github.com/bvancil/bvancil.r-universe.dev
 	branch = HEAD
 [submodule "multimeter"]
 	path = multimeter
